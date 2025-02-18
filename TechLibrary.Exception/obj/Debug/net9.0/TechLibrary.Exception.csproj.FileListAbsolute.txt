@@ -1,0 +1,11 @@
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Exception/bin/Debug/net9.0/TechLibrary.Exception.deps.json
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Exception/bin/Debug/net9.0/TechLibrary.Exception.dll
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Exception/bin/Debug/net9.0/TechLibrary.Exception.pdb
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Exception/obj/Debug/net9.0/TechLibrary.Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Exception/obj/Debug/net9.0/TechLibrary.Exception.AssemblyInfoInputs.cache
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Exception/obj/Debug/net9.0/TechLibrary.Exception.AssemblyInfo.cs
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Exception/obj/Debug/net9.0/TechLibrary.Exception.csproj.CoreCompileInputs.cache
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Exception/obj/Debug/net9.0/TechLibrary.Exception.dll
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Exception/obj/Debug/net9.0/refint/TechLibrary.Exception.dll
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Exception/obj/Debug/net9.0/TechLibrary.Exception.pdb
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Exception/obj/Debug/net9.0/ref/TechLibrary.Exception.dll

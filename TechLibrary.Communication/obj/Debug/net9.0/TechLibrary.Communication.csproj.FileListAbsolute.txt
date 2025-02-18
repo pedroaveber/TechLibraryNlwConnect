@@ -1,0 +1,11 @@
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Communication/bin/Debug/net9.0/TechLibrary.Communication.deps.json
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Communication/bin/Debug/net9.0/TechLibrary.Communication.dll
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Communication/bin/Debug/net9.0/TechLibrary.Communication.pdb
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.AssemblyInfoInputs.cache
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.AssemblyInfo.cs
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.csproj.CoreCompileInputs.cache
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.dll
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/refint/TechLibrary.Communication.dll
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.pdb
+/Users/pedroveber/Documents/www/rocketseat/NlwConnect/DotNet/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/ref/TechLibrary.Communication.dll
