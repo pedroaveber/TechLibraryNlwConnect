@@ -11,7 +11,7 @@ public class DoLoginUseCase
 {
     public ResponseRegistedUserJson Execute(RequestLoginJson request)
     {
-        var dbContext = new TechLibraryDBContext();
+        var dbContext = new TechLibraryDbContext();
         var user = dbContext.Users.FirstOrDefault(user => user.Email == request.Email);
 
         if (user is null) throw new InvalidLoginException();

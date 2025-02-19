@@ -13,7 +13,7 @@ public class RegisterUserUseCase
 {
     public ResponseRegistedUserJson Execute(RequestUserJson request)
     {
-        var dbContext = new TechLibraryDBContext();
+        var dbContext = new TechLibraryDbContext();
         
         Validate(request, dbContext);
 
@@ -38,7 +38,7 @@ public class RegisterUserUseCase
         };
     }
 
-    private static void Validate(RequestUserJson request, TechLibraryDBContext dbContext)
+    private static void Validate(RequestUserJson request, TechLibraryDbContext dbContext)
     {
         var validator = new RegisterUserValidator();
         var result = validator.Validate(request);
